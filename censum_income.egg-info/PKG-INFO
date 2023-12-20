@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: censum-income
+Version: 0.1
+Author: Naveen
+Author-email: naveen@test.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
